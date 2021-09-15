@@ -1,5 +1,5 @@
 # Hello!👋  My name is Pablo Espinosa 
-### I'm a computer science student at [UMA](https://www.uma.es/) & I'm currently working as a full-stack software developer for [SCENIC Group.](https://www.scenic.uma.es/) 
+### I'm a computer science student at [UMA](https://www.uma.es/) & I'm currently working as a full-stack software developer for Sofocles Group, also at [UMA.](https://www.uma.es/)
 
 ### I'm highly interested in ![software](https://img.shields.io/badge/-SOFTWARE%20ENGINEERING-brightgreen) & ![IA](https://img.shields.io/badge/-ARTIFICIAL%20INTELLIGENCE-blue) especially:
   - Full-Stack development.
